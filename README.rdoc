@@ -1,0 +1,4 @@
+== README
+
+=== About
+This is a Barchart Sample Application with Ruby on Rails, D3.js.
